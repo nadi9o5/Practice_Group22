@@ -5,6 +5,12 @@ public class HelloGuys {
 
         System.out.println("first we created hello guys class");
 
+        for (String arg : args) {
+
+            arg+=5;
+
+        }
+
 
     }
 }
