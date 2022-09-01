@@ -12,5 +12,14 @@ public class HelloGuys {
 
         }
 
-    }
-}
+
+
+
+        for (String arg : args) {
+
+            arg+=5;
+
+        }
+
+
+}}
